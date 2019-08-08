@@ -1,0 +1,299 @@
+@media screen and (max-width: 768px){
+    .bottom-1{
+        display: none;
+    }
+    .bottom-2{
+        display: none;
+    }
+    .logo-front{
+        display: none!important;
+    }
+    .showcase-text h1 {
+        font-size: 28px;
+    }
+    .showcase-text h2 {
+        font-size: 18px;
+    }
+    .take-text h1,.next-text h1 {
+        font-size: 30px;
+    }
+    .take-text,.next-text {
+        text-align: center;
+        padding-top: 5px;
+        width: 100%;
+    }
+    #take-control{
+        display: block;
+    }
+    .take-picture,.next-picture,.m,.partner,.logo-fron,.second-cl{
+        display: none!important;
+    }
+    .take-text .mobile{
+        margin: 0 auto;
+        width: 50%;
+        display: block;
+    }
+    .mobile2{
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+    }
+    .h1{
+        padding-top: 100px;
+    }
+    #map{
+        height: 500px;
+    }
+    .yallow{
+        padding: 0 0!important;
+    }
+    .trust{
+        width: 100%;
+    }
+    .award{
+        display: block;
+        width: 100%;
+    }
+    .box-middle{
+        display: block;
+        width: 90%;
+        padding: 0 0;
+        margin: 60px auto;
+    }
+    .left-footer {
+        display: block;
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    .right-footer {
+        display: block;
+        width: 100%;
+    }
+    #forex-side {
+        width: 150%;
+        float: none;
+    }
+    #forex-side ul{
+        margin: 0 0;
+    }
+    .mobile-show{
+        display: block!important;
+    }
+    .menu-bar{
+        display: block;
+    }
+    .nav-container{
+        padding: 0 0;
+        height: auto;
+    }
+    li.li.t{
+        width: 100%;
+        border-top: 1px solid rgb(209, 209, 209);
+        padding: 15px;
+        display: block;
+    }
+
+    .mobile-show,.menu-bar,.first-cl{
+        margin-top: 25px;
+    }
+    .first-cl{
+        width: 60%!important;
+    }
+    .ab{
+        background: #f8f8f8;
+        height: 300px;
+    }
+    .ab .ab-fizz {
+        width: 100%;
+        line-height: 1.3;
+    }
+    .vision-img{
+        display: none;
+    }
+    .vision{
+        width: 100%
+    }
+    .what{
+        padding: 15px!important;
+        height: 1100px;
+    }
+    #foot .container .row{
+        display: block;
+    }
+    #forex-side .container .row{
+        display: block;
+        width: 65%;
+    }
+    .row.r{
+        display: block;
+    }
+    .clip{
+        margin-left: 0;
+    }
+    li a.downdown:hover{
+        border: none;
+    }
+    .web{
+        display: none;
+    }
+    .mobile{
+        display: block;
+    }
+    .mobile img{
+        width: 50px;
+    }
+}
+
+@media screen and (max-width : 1100px){
+    .bottom-1{
+        display: none;
+    }
+    .bottom-2{
+        display: none;
+    }
+    .logo-front{
+        display: block;
+    }
+    .showcase-text h1 {
+        font-size: 28px;
+    }
+    .showcase-text h2 {
+        font-size: 18px;
+    }
+    .take-text h1,.next-text h1 {
+        font-size: 30px;
+    }
+    .take-text,.next-text {
+        text-align: center;
+        padding-top: 5px;
+        width: 100%;
+    }
+    #take-control{
+        height: auto;
+        display: block;
+    }
+    .take-picture,.next-picture,.m,.partner,.logo-fron,.second-cl{
+        display: none;
+    }
+    .second-cl {
+        width: 30%;
+        padding-top: 30px;
+        display: block;
+    }
+    .take-text .mobile{
+        margin: 0 auto;
+        width: 50%;
+        display: block;
+    }
+    .mobile2{
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+    }
+    .h1{
+        padding-top: 100px;
+    }
+    #map{
+        height: 500px;
+    }
+    .yallow {
+        height: auto;
+        padding: 30px 20px;
+    }
+    .trust{
+        width: 100%;
+    }
+    .award{
+        display: block;
+        width: 100%;
+    }
+    .box-middle{
+        display: block;
+        width: 90%;
+        padding: 0 0;
+        margin: 60px auto;
+    }
+    .left-footer {
+        display: block;
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    .right-footer {
+        display: block;
+        width: 100%;
+    }
+    #forex-side {
+        width: 150%;
+        float: none;
+    }
+    #forex-side ul{
+        margin: 0 0;
+    }
+    .mobile-show{
+        display: none;
+    }
+    .menu-bar{
+        display: block;
+        font-size: 30px;
+    }
+    .nav-container{
+        padding: 0 0;
+        height: auto;
+    }
+    li.li.t{
+        width: 100%;
+        border-top: 1px solid rgb(209, 209, 209);
+        padding: 15px;
+        display: block;
+    }
+
+    .mobile-show,.menu-bar,.first-cl{
+        margin-top: 25px;
+    }
+    .first-cl{
+        width: 85%;
+    }
+    .ab{
+        background: #f8f8f8;
+        height: 300px;
+    }
+    .ab .ab-fizz {
+        width: 100%;
+        line-height: 1.3;
+    }
+    .vision-img{
+        display: none;
+    }
+    .vision{
+        width: 100%
+    }
+    .what{
+        padding: 15px!important;
+        height: 1100px;
+    }
+    #foot .container .row,#tra .container .row{
+        display: block;
+    }
+    #forex-side .container .row{
+        display: block;
+        width: 65%;
+    }
+    .row.r{
+        display: block;
+    }
+    .clip{
+        margin-left: 0;
+    }
+    li a.downdown:hover{
+        border: none;
+    }
+    #next,#map{
+        height: auto;
+    }
+    #forex-side .container{
+        max-width: none;
+    }
+    .clip{
+        padding: 20px;
+    }
+}
